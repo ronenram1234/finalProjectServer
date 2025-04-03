@@ -1,0 +1,30 @@
+# Node.js dependencies
+/node_modules/
+
+# Build output
+/dist/
+build/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+logs/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Temporary files
+tmp/
+*.tmp
+nodeProj.cards.json
+nodeProj.users.json
+
+# documents
+postmantestscenrios.pdf
